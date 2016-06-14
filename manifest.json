@@ -1,0 +1,22 @@
+{
+  "name": "Game TV",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "description": "游戏直播快捷入口",
+  "icons": {
+    "16": "image/TV_16.png",
+    "48": "image/TV_48.png"
+  },
+
+  "browser_action": {
+    "default_title": "游戏直播快捷入口",
+    "default_icon": "image/TV_16.png",
+    "default_popup": "page/popup.html"
+  },
+
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}

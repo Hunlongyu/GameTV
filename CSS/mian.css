@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+}
+th{
+    border: 1px solid #e8e8e8;
+}
+th:hover{
+    border: 1px solid #a1a1a1;
+}
