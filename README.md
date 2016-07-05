@@ -11,7 +11,7 @@
 
 插件截图
 
-[下载插件](https://github.com/Hunlongyu/GameTV/blob/master/Chrome%20Extension/GameTV.crx)
+[下载(右键链接另存为)](https://github.com/Hunlongyu/GameTV/blob/master/Chrome%20Extension/GameTV.crx)
 
 目前是0.1版本，功能界面有待完善。
 
